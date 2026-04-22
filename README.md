@@ -1,1 +1,1 @@
-## This is a Remote MCP testing server from the scratch for the Claude Desktop as a Client.
+## This is a Remote MCP testing server from scratch for the Claude Desktop as a Client.
